@@ -1,0 +1,1 @@
+Student{name='Alond', studentID='st59917', email='mail@mail.com', dateOfBirth=Sat Jan 01 00:00:00 EET 2000}

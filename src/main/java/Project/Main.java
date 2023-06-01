@@ -74,6 +74,6 @@ public class Main {
         System.out.println("CR = Create report");
         System.out.println("S = Show all records");
         System.out.println("F = Find student by student ID");
-        System.out.println("Q = Close program test for change");
+        System.out.println("Q = Close program");
     }
 }
